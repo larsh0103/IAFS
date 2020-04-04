@@ -1,0 +1,10 @@
+## Ignore everything
+*
+
+## Exlude Directories
+!notebooks
+!src
+!.gitignore
+!requirements.in
+!requirements.txt
+!README.md
