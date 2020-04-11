@@ -18,10 +18,19 @@ This project is used for educational purposes.
 
  3. Activate virtual enviroment and install pip-tools
 
+On mac/linux
  ```
  source .venv/bin/activate
  pip install pip-tools
  ```
+ On windows
+
+ ```
+
+ C:\ABSOLUTE\PATH\TO\IAFS\.venv\Scripts\activate.bat
+ pip install pip-tools
+ ```
+
 4. Resolve dependencies listed in requirements.in and install packages in virtual enviroment
 
 ```
