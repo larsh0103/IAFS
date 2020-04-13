@@ -9,3 +9,6 @@
 !requirements.txt
 !README.md
 !Data
+
+## Even if they are in subdirectories
+!*/
